@@ -48,3 +48,7 @@ $ cd chrome-extension-real-project
 6. After selecting here you can see that the project **_Review configuration for chrome-extension-real-project_** and then select the **_Deploy chrome-extension-real-project_** Button.
 7. Now your project is Live.
 
+------
+
+
+## Author 
