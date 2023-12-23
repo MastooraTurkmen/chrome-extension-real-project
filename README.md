@@ -1,7 +1,7 @@
 # Chrome-extension-real-project
 
 ![Alt text](./images/image.png)
-![Alt text](image-1.png)
+![Alt text](./images/image-1.png)
 
 
 ## Cloning the project 🪛🔨
