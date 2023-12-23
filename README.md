@@ -18,3 +18,6 @@ $ cd chrome-extension-real-project
 ----
 
 ## Languages and Tools are used 🗣️🔧
+
+1. **Languages** 🗣️
+
