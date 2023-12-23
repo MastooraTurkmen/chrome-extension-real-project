@@ -52,3 +52,5 @@ $ cd chrome-extension-real-project
 
 
 ## Author 
+
+**Mastoora Turkmen**
