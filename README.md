@@ -55,6 +55,8 @@ $ cd chrome-extension-real-project
 ------
 
 
-## Author 
+## Author 👩🏻‍💻
 
 **Mastoora Turkmen**
+
+[LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/) 
