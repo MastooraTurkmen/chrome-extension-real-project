@@ -1,5 +1,8 @@
 # Chrome-extension-real-project
 
+A wonderful Chrome Extension Personal Dashboard project which you can add to you chrome and get lots of
+random background images :)
+
 ![Alt text](./images/image.png)
 ![Alt text](./images/image-1.png)
 
