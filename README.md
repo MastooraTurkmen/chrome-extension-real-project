@@ -267,6 +267,8 @@ navigator.geolocation.getCurrentPosition(position => {
     "name": "Personal Dashboard",
     "version": "1.0.0",
     "description": "Just for practicing async JS",
+    "action": {
+        "default_icon": "./images/icon.png"
     
 }
 ```
