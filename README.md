@@ -173,4 +173,21 @@ div#weather > img {
     width: 70px;
 }
 
+p.weather-city {
+    width: 100%;
+    text-align: right;
+    margin: 0;
+    margin-top: -10px;
+    font-size: 1.2rem;
+}
+
+p.weather-temp {
+    margin: 0;
+    font-size: 1.7rem;
+    margin-left: -10px;
+}
+
+p#author {
+    font-size: 1rem;
+}
 ```
