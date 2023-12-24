@@ -74,3 +74,9 @@ $ cd chrome-extension-real-project
 4. ***manifest json***
 
 
+## ***Index HTML***
+
+```html
+
+```
+
