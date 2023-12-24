@@ -55,6 +55,7 @@ $ cd chrome-extension-real-project
    ![Netlify Screenshot](./netlify/netlify-2.png)
    ![Netlify Screenshot](./netlify/netlify-3.png)
 7. Now your project is Live.
+   ![Alt text](image.png)
 
 ------
 
