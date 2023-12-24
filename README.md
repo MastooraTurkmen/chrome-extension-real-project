@@ -269,6 +269,9 @@ navigator.geolocation.getCurrentPosition(position => {
     "description": "Just for practicing async JS",
     "action": {
         "default_icon": "./images/icon.png"
-    
+    },
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    }
 }
 ```
