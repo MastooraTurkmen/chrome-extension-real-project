@@ -53,7 +53,7 @@ $ cd chrome-extension-real-project
    ![Alt text](./netlify/netlify-1.png)
 6. After selecting here you can see that the project **_Review configuration for chrome-extension-real-project_** and then select the **_Deploy chrome-extension-real-project_** Button.
    ![Alt text](./netlify/netlify-2.png)
-   ![Alt text](image-3.png)
+   ![Alt text](./netlify/netlify-3.png)
 7. Now your project is Live.
 
 ------
