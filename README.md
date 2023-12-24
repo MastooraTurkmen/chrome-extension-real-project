@@ -66,6 +66,8 @@ $ cd chrome-extension-real-project
 [Twitter](https://twitter.com/MastooraJ22)
 
 
+--------
+
 # Codes are used in Project
 
 1. ***Index HTML***
