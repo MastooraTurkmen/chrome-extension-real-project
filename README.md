@@ -68,3 +68,4 @@ $ cd chrome-extension-real-project
 
 # Codes are used in Project
 
+1. ***Index HTML***
