@@ -262,5 +262,11 @@ navigator.geolocation.getCurrentPosition(position => {
 
 ```json
 
-
+{
+    "manifest_version": 3,
+    "name": "Personal Dashboard",
+    "version": "1.0.0",
+    "description": "Just for practicing async JS",
+    
+}
 ```
