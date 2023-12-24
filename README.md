@@ -50,7 +50,7 @@ $ cd chrome-extension-real-project
 4. From there select **_Deploy with Github_**.
    ![Alt text](./netlify/netlify.png)
 5. Then write your project name and select it.
-   ![Alt text](image-1.png)
+   ![Alt text](./netlify/netlify-1.png)
 6. After selecting here you can see that the project **_Review configuration for chrome-extension-real-project_** and then select the **_Deploy chrome-extension-real-project_** Button.
    ![Alt text](image-2.png)
    ![Alt text](image-3.png)
