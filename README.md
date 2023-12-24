@@ -256,3 +256,6 @@ navigator.geolocation.getCurrentPosition(position => {
 });
 
 ```
+
+
+## ***manifest json***
